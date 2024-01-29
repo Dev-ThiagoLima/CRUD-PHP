@@ -3,7 +3,7 @@
 <html lang="en">
 	<head>
     	<title>Página de Usuário</title>
-	    <link rel="stylesheet" type="text/css" href="./css/estilo.css">
+        <link rel="stylesheet" href="style.css">
 	</head>
   	<body>
   	<div class="container">
